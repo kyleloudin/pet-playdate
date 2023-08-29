@@ -3,7 +3,7 @@
     <link href='https://fonts.googleapis.com/css?family=Luckiest Guy' rel='stylesheet'>
     <header class='header'>
       <img src="../img/trial-gif2.gif" style="width:10%">
-      <h1> <i class="fa fa-paw fa-3x"></i>Fur-Ever Friends<i class="fa fa-paw fa-3x"></i></h1> 
+      <h1> <i class="fa fa-paw fa-3x"></i>Pet Playdate<i class="fa fa-paw fa-3x"></i></h1> 
       <img src="../img/trial-gif2.gif" style="width:10%" >
     </header>
     
